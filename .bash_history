@@ -1049,3 +1049,213 @@ cd dist
 npm run serve
 code .
 node -v
+git init
+git add.
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Innocent27/pointonsalebackend.git
+git add .
+git commit -m "first commit"
+git -am "testing git knowledge"
+git add .
+git -m "testing git knowledge"
+git commit -m "testing git knowledge"
+git push
+git status
+git pull
+node server
+clear
+node server
+clear
+node server
+npm i express bcryptjs cors jsonwebtoken mysql2 sequelize -g
+npm init
+npm i express
+npm i cors
+npm i bcryptjs
+npm i jsonwebtoken
+npm i mysql2
+npm i sequelize
+code .
+git clone https://github.com/aldoignatachandra/NodeJS-PointOfSales.git
+node server
+node server.js
+clear
+code .
+node server.js
+code .
+npm i jsonwebtoken
+node 
+require('crypto').randomBytes(8)
+require('crypto').randomBytes(8).toString('hex)
+node require('crypto')
+node require('crypto').randomBytes(8)
+node require('crypto').randomBytes(8).toString(8)
+node require('crypto').randomBytes(64).toString(64)
+node 
+code .
+code .
+npm run serve
+nodemon server.js
+code .
+git clone https://github.com/Innocent27/pointonsalebackend.git
+code .
+cd pointonsalebackend
+code .
+nodemon server.js
+node server
+clear
+nodemon server.js
+code .
+npm i bcrypt
+nodemon server.js 
+npm run serve
+npm i
+git add .
+git commit -m "your commit message"
+git push heroku main
+heroku logs --tail
+clear
+nodemon server
+git add .
+git commit -m "posting"
+git push heroku main
+git init
+heroku git:remote -a pointonsalebackend
+git add .
+git commit -m "your commit message"
+$ git push heroku master
+deployed successfully
+Once you are done you will be able to see that the build and deployment are successful in the latest activity section of the Heroku app overview. Now you can click the app button on the top to view your node application.
+Automatic deployment using Git
+Now the deployment is done but whenever you make changes in your code you will have to push your changes to Heroku git to deploy your changes. And you will most likely have a git hub repository where you commit your code already, and we don't want to do this extra work every time.
+So to deal with this Heroku provides a solution you can connect your Github repository to your Heroku app and Heroku will do the deployment automatically whenever you push your changes to GitHub.
+To do this, you can go to your Heroku app. Under the deploy section, you need to select the second option GitHub. ( If your Heroku account is not connected to git hub you will have to log in to Github and connect your GitHub account.) and you will be able to see an input box to search the repository associated with your git hub account. You can look for your repo and click connect.
+Connect to git hub repo
+Once the repository is connected you can select enable automatic deploys and you are all done now whenever there is a push to your Github repo Heroku will automatically deploy the changes.
+enable automatic deployment
+Thank you for the read and do comment below if you encountered any issue or want to suggest better ways.
+git push heroku main
+nodemon server.js
+clear
+nodemon server
+npm run serve
+npm i
+npm run serve
+vue-cli-service i
+vue-cli i
+cli i
+wd
+pwd
+code .
+use df command
+df
+npm run serve
+code .
+code .
+npm run serve
+node server
+code .
+npm run serve
+git clone https://github.com/Innocent27/pointonsalebackend.git
+code .
+node index
+nodemon index
+git add .
+git commit -m " everything is working"
+git push heroku main
+heroku logs --tail
+git add .
+git commit -m " everything is working"
+git push heroku main
+git add .
+git commit -m "Testing process"
+git push heroku main
+heroku logs --tail
+git add .
+git commit - "updates"
+git commit -m "update"
+git push heroku 
+heroku logs --tail
+git add .
+git commit -m "testing post request to register"
+git push heroku 
+heroku logs --tail
+git push heroku 
+heroku restart
+git push heroku 
+git add .
+git commit -m "testing post request to register"
+git push heroku 
+heroku logs --tail
+git add .
+git commit -m " commit"
+git push heroku main
+heroku logs --tail
+heroku restart
+heroku logs --tail
+heroku restart
+heroku logs --tail
+npm i bcrypt
+git add .
+git commit -m "updated" 
+git push heroku main
+heroku logs --tail
+heroku restart
+heroku logs --tail
+code .
+git clone https://github.com/Innocent27/nkamelaportfolio.git
+pwd 
+git clone https://github.com/Innocent27/nkamelaportfolio.git
+cd nkamelaportfolio
+ls
+code .
+git clone https://github.com/Innocent27/nkamelaportfolio.git
+code .
+npm run serve
+npm i 
+npm run serve
+vue init webpack client
+vue cli -v
+vue cli --v
+vue cli --version
+git clone https://github.com/Innocent27/nkamelaportfolio.git
+code .
+git clone https://github.com/Innocent27/nkamelaportfolio.git
+cd nkamelaportfolio
+code .
+npm run serve
+git init
+git add .
+git commit -m " changes made"
+git push 
+git add .
+git commit -m "work on CDN"
+git push 
+code .
+npm run serve
+pwd
+vue create final-fullstack-project
+vue init webpack mevn-stack
+npm run dev
+clear
+npm install --save express body-parser morgan body-parser serve-favicon
+npm i express
+npm init
+code .
+heroku login
+heroku logs --tail
+nodemon index
+code .
+npm run serve
+code .
+heroku login
+git init
+heroku git:remote -a nodejsexpressapilindo
+git add .
+git commit -m "your commit message"
+git push heroku master
+git clone https://github.com/Innocent27/lindokuhleinnocentnkamela.git
+code .
