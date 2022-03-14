@@ -1,0 +1,9 @@
+post http://localhost:4000/users
+Content-Type: application/json
+
+{
+    "fullname": "Lindo",
+    "email": "lindo@gmail.com",
+    "password": "Lindo@123456",
+    "phone_number": 0786696539
+}
