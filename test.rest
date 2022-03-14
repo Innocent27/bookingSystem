@@ -1,9 +1,44 @@
-post http://localhost:4000/users
+post http://localhost:5000/users
 Content-Type: application/json
 
 {
     "fullname": "Lindo",
     "email": "lindo@gmail.com",
     "password": "Lindo@123456",
-    "phone_number": 0786696539
+    "phone_number": "0786696539"
 }
+
+###
+post http://localhost:4000/users
+Content-Type: application/json
+
+{
+    "fullname": "Mali",
+    "email": "Mali@gmail.com",
+    "password": "Mali@123456",
+    "phone_number": "0791234567"
+}
+###
+GET http://localhost:5000/users/622f2a2b463661b695fd980a
+###
+GET http://localhost:5000/users
+###
+
+post http://localhost:5000/users/login
+Content-Type: application/json
+
+{
+    "email": "Mali@gmail.com",
+    "password": "Mali@123456"
+}
+
+###
+PUT  http://localhost:5000/users/622f2a2b463661b695fd980a
+Content-Type: application/json
+
+{
+    "fullname": "Lindokuhle"
+}
+
+###
+DELETE http://localhost:5000/users/622f2a2b463661b695fd980a
